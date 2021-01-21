@@ -43,3 +43,7 @@ To use a friendlier name, click **Rename**, and then type the name you want in t
 Click **OK** to save.
 
 The new group appears on the tab you picked, where you can click the button to run the macro. 
+
+![Final Result](https://github.com/T0nyMacaroni/OutlookSpamButton/blob/main/images/5-final.png?raw=true) 
+
+Enjoy!
