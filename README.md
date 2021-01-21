@@ -9,15 +9,17 @@ This module will send the current selected email in outlook as an attachment to 
 ### Step 1: Enable developer mode
 Open Outlook and navigate to **File > Options**.  
 Under **Customize Ribbon**, in the **Main Tabs** list, check the **Developer** box if it is not already checked.
+
 ![Outlook Options](https://github.com/T0nyMacaroni/OutlookSpamButton/blob/main/images/1-outlookoptions.png?raw=true) 
 
 ### Step 2: Import module
 In the outlook ribbon select the new **Developer** tab and click on **Visual Basic** (or press Alt + F11)  
-In the Visual Basic window click on File > import module and import the module from this repository.  
+In the Visual Basic window click on **File > Import File** and import the module from this repository.  
+
 ![Import Module](https://github.com/T0nyMacaroni/OutlookSpamButton/blob/main/images/2-importmodule.png?raw=true)  
 
 ### Step 2b: Change email address (optional)
-Change the emailaddress in the code that you would like to send your spam to.  
+Change the email address in the code that you would like to send your spam to.  
 By default, this mail will be sent to verdacht@safeonweb.be. Feel free to change this.
 
 ### Step 3: Add button in ribbon
